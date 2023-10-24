@@ -9,6 +9,8 @@ public class PracticeGit {
 		System.out.println("Second message from x");
 		
 		System.out.println("Second message from y");
+		
+		System.out.println("Added one more file by x");
 	}
 
 }
