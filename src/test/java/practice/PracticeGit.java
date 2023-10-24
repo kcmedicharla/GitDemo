@@ -7,6 +7,8 @@ public class PracticeGit {
 		System.out.println("First message from y");
 		
 		System.out.println("Second message from x");
+		
+		System.out.println("Second message from y");
 	}
 
 }
